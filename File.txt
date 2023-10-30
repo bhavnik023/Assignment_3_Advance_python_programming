@@ -1,0 +1,4 @@
+This is an article on reading text files in Python.
+Python is a popular programming language.
+Python can be used on a server to create web applications.
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
